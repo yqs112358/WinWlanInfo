@@ -116,8 +116,6 @@ int GetWlanInfo()
 
 int main(int argc, char** argv)
 {
-	system("chcp 65001 > nul");
 	GetWlanInfo();
-
 	return 0;
 }

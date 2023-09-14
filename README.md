@@ -1,6 +1,6 @@
 # WinWlanInfo
 
-> Small tool to get currently connected Wifi's SSID & IP Address
+> Small tool to get currently connected Wifi's SSID & IP Address &nbsp;&nbsp;(Windows Platform)
 
 ## Usage
 
